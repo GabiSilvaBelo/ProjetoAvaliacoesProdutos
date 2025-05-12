@@ -50,15 +50,15 @@ python3 scripts/modelo_sentimento.py
 Para aplicar o modelo nos dados:
 python3 scripts/aplica_modelo.py
 
-📊 Resultados
+# 📊 Resultados
 
 O modelo apresenta uma acurácia de 90% na classificação de sentimentos com base nas avaliações. Isso demonstra sua boa capacidade de generalização e identificação de padrões positivos e negativos.
 
-✍️ Autora
+# ✍️ Autora
 
 Gabriela Belo da Silva
-Cientista de Dados em formação | Estagiária em tecnologia | Criadora do canal Ampulhetta
+Cientista de Dados em formação | Estagiária em tecnologia 
 
-📌 Observação
+# 📌 Observação
 
 Este projeto faz parte da trilha de estudos em Ciência de Dados, abordando as etapas de Análise Exploratória, NLP, e Machine Learning.
